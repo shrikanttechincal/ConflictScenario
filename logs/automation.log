@@ -1,0 +1,5 @@
+19:16:29.185 [main] INFO  api.test.UserTests - *********************
+19:16:34.280 [main] INFO  api.test.UserTests - *********************User is created
+19:16:36.000 [main] INFO  api.test.UserTests - *********************User info is displayed
+19:16:39.869 [main] INFO  api.test.UserTests - *********************User info is updateed
+19:16:41.569 [main] INFO  api.test.UserTests - *********************User info is deleted
