@@ -16,10 +16,12 @@
     </Appenders>
 
     <Loggers>
+
         <Root level="conflict">
+
             <!-- Here you can use multiple log levels All < Trace < Debug < Info < Warn < Error < Fatal -->
             <!-- <AppenderRef ref="Console"/> -->
             <AppenderRef ref="File"/>
         </Root>
     </Loggers>
-</Configuration>
+</Configuration>	
